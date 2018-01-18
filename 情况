@@ -1,0 +1,22 @@
+说下情况吧
+# 首先配置
+          电脑型号	MECHREVO X1 Series GI5KN4A 笔记本电脑  (扫描时间：2017年10月15日)
+          操作系统	Windows 10 专业版 64位 ( DirectX 12 )
+
+          处理器	英特尔 Core i7-7700HQ @ 2.80GHz 四核
+          主板	MECHREVO X1 Series GI5KN4A ( 英特尔 Xeon E3 - 1200 v6/7th Gen Intel Core/DRAM Registers - 5910 - 100 Series/C230 SeriDB) )
+          内存	8 GB ( 金士顿 DDR4 2400MHz )
+          主硬盘	ADATA _IM2S3338-256GD ( 256 GB / 固态硬盘 )
+          显卡	Nvidia GeForce GTX 1050 ( 2 GB )
+          显示器	NCP000B LM156LF1L02 ( 15.3 英寸  )
+          声卡	瑞昱 ALC269 @ 英特尔 High Definition Audio 控制器
+          网卡	瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 103C1D0
+#运行情况
+显卡：驱动集显intel hd 630 独显屏蔽了。
+声卡：269用的ALC。
+cpu：变频8档。
+不是太完美吧，fn键没有修复，iMessage，facetime花了一整天没辙，还跟客服妹子周旋了40多分钟。
+睡眠不是问题，开关机速度还可以。
+#下面是efi地址：
+百度网盘： https://pan.baidu.com/s/1pMJHYp9 密码: vgdp
+Google drive ：https://drive.google.com/file/d/1a7QrVsn_4teUsz_mD1wAaaCx80eofv4w/view?usp=sharing
